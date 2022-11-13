@@ -1,0 +1,15 @@
+D:\dot net pro\Hacker Rank 30Day preparation\Hacker Rank 30Day preparation\bin\Debug\net6.0\Hacker Rank 30Day preparation.exe
+D:\dot net pro\Hacker Rank 30Day preparation\Hacker Rank 30Day preparation\bin\Debug\net6.0\Hacker Rank 30Day preparation.deps.json
+D:\dot net pro\Hacker Rank 30Day preparation\Hacker Rank 30Day preparation\bin\Debug\net6.0\Hacker Rank 30Day preparation.runtimeconfig.json
+D:\dot net pro\Hacker Rank 30Day preparation\Hacker Rank 30Day preparation\bin\Debug\net6.0\Hacker Rank 30Day preparation.dll
+D:\dot net pro\Hacker Rank 30Day preparation\Hacker Rank 30Day preparation\bin\Debug\net6.0\Hacker Rank 30Day preparation.pdb
+D:\dot net pro\Hacker Rank 30Day preparation\Hacker Rank 30Day preparation\obj\Debug\net6.0\Hacker Rank 30Day preparation.csproj.AssemblyReference.cache
+D:\dot net pro\Hacker Rank 30Day preparation\Hacker Rank 30Day preparation\obj\Debug\net6.0\Hacker Rank 30Day preparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net pro\Hacker Rank 30Day preparation\Hacker Rank 30Day preparation\obj\Debug\net6.0\Hacker Rank 30Day preparation.AssemblyInfoInputs.cache
+D:\dot net pro\Hacker Rank 30Day preparation\Hacker Rank 30Day preparation\obj\Debug\net6.0\Hacker Rank 30Day preparation.AssemblyInfo.cs
+D:\dot net pro\Hacker Rank 30Day preparation\Hacker Rank 30Day preparation\obj\Debug\net6.0\Hacker Rank 30Day preparation.csproj.CoreCompileInputs.cache
+D:\dot net pro\Hacker Rank 30Day preparation\Hacker Rank 30Day preparation\obj\Debug\net6.0\Hacker Rank 30Day preparation.dll
+D:\dot net pro\Hacker Rank 30Day preparation\Hacker Rank 30Day preparation\obj\Debug\net6.0\refint\Hacker Rank 30Day preparation.dll
+D:\dot net pro\Hacker Rank 30Day preparation\Hacker Rank 30Day preparation\obj\Debug\net6.0\Hacker Rank 30Day preparation.pdb
+D:\dot net pro\Hacker Rank 30Day preparation\Hacker Rank 30Day preparation\obj\Debug\net6.0\Hacker Rank 30Day preparation.genruntimeconfig.cache
+D:\dot net pro\Hacker Rank 30Day preparation\Hacker Rank 30Day preparation\obj\Debug\net6.0\ref\Hacker Rank 30Day preparation.dll
